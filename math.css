@@ -1,0 +1,18 @@
+h1{
+    color: aqua;
+    }
+    h2{
+    color: chartreuse;
+    }
+    h3{
+    color:darkblue;
+    font-size: 28px;
+    }
+    #send_btn{
+    height:40px;
+    width:80px;
+    color:crimson;
+    background-color: gold;
+    border-radius: 10px;
+    font-size: 20px;
+    }

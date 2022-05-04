@@ -1,0 +1,33 @@
+body{
+background-image:url("background1.jpg");
+}
+h1{
+color: aqua;
+}
+h2{
+color: chartreuse;
+}
+h3{
+color:darkblue;
+font-size: 28px;
+}
+#login_bt{
+height: 40px;
+background-color: gold;
+color:red;
+width: 80px;
+font-size: 20px;
+border-radius: 10px;
+}
+#Player_1_login{
+background-color: white;
+width: 500px;
+height:150px;
+border-radius: 10px;
+}
+#Player_2_login{
+    background-color: white;
+    width: 500px;
+    height:150px;
+    border-radius: 10px;
+    }
